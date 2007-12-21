@@ -10,6 +10,7 @@ URL:	   http://www.csee.umbc.edu/~acedil1/agenda/little.shtml
 Source:    %{name}-%{version}.tar.bz2
 Group:	   Development/Other
 License:   GPL
+BuildRoot: %{_tmppath}/%{name}-buildroot
 
 %description
 The purpose of this utility is to provide an easy way
