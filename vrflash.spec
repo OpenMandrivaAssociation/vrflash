@@ -1,6 +1,6 @@
 %define name	vrflash
 %define version	0.24
-%define release	%mkrel 4
+%define release	%mkrel 6
 
 Summary:   Flash utility for the Agenda VR3 Linux PDA
 Name:	   %{name}
