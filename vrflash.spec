@@ -6,7 +6,7 @@ Summary:   Flash utility for the Agenda VR3 Linux PDA
 Name:	   %{name}
 Version:   %{version}
 Release:   %{release}
-URL:	   http://www.csee.umbc.edu/~acedil1/agenda/little.shtml
+URL:	   https://www.csee.umbc.edu/~acedil1/agenda/little.shtml
 Source:    %{name}-%{version}.tar.bz2
 Group:	   Development/Other
 License:   GPL
