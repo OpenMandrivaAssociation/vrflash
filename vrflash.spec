@@ -12,6 +12,11 @@ Group:	   Development/Other
 License:   GPL
 BuildRoot: %{_tmppath}/%{name}-buildroot
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 The purpose of this utility is to provide an easy way
 to flash kernels and romdisks to the Agenda VR3.
